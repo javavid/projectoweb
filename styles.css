@@ -1,0 +1,22 @@
+body{
+    background-color: #33FF33;
+}
+
+p{
+    background-color: rgba(0, 139, 139, 0.363);
+    font-size: xx-large;
+    color: #006666;
+    font-weight: bold;
+   
+   
+}
+
+.formulario{
+    background-color: #0066008a;
+    margin-right: 20px;
+    width: 250px;
+    height: 750px;
+    padding: 5px;
+    border-radius: 50px;
+    
+}
